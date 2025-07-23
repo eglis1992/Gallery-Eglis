@@ -2,7 +2,7 @@
 body{
 		margin: 2%;
 		border: 1px solid black;
-		background-color: #b3b3b3;
+		background-color: #BDBDBD;
 }
 #image{
     line-height:650px;
@@ -10,7 +10,7 @@ body{
     height: 650px;
 		border:5px solid black;
 		margin:0 auto;
-    background-color:" #8e68ff";
+    background-color:" #B2EBF2";
     background-image: url('');
     background-repeat: no-repeat;
     color:#FFFFFF;
